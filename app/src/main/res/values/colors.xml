@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="ctek_red">#D0021B</color>
+    <color name="ctek_text_grey">#9B9B9B</color>
+
+    <color name="page_indicator_default">#dddddd</color>
+    <color name="page_indicator_checked">@color/ctek_orange</color>
+
+    <color name="gradient_start">#50000000</color>
+    <color name="light_gray_stroke">#88E1E1E3</color>
+    <color name="ctek_yellow">#E7C437</color>
+    <color name="ctek_orange">#f38a00</color>
+    <color name="ctek_white">#FFFFFF</color>
+    <color name="red_button">#D0081A</color>
+
+    <color name="text_dark_primary">#333333</color>
+    <color name="light_blue">#2577b3</color>
+    <color name="light_green">#7DC7C0</color>
+
+    <color name="background">#ff1d1d1b</color>
+    <color name="placeholder">#ff999999</color>
+
+
+</resources>
+
